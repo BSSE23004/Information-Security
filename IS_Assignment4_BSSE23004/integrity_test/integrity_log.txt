@@ -1,0 +1,72 @@
+
+======================================================================
+Integrity Check Report
+Timestamp       : 2026-05-23T12:16:36.646973
+Baseline taken  : 2026-05-23T12:16:00.423803
+Folder          : ./integrity_test
+----------------------------------------------------------------------
+Result: NO CHANGES DETECTED
+======================================================================
+
+======================================================================
+Integrity Check Report
+Timestamp       : 2026-05-23T12:20:31.959768
+Baseline taken  : 2026-05-23T12:16:00.423803
+Folder          : ./integrity_test
+----------------------------------------------------------------------
+Result: 5 change(s) detected
+
+[MODIFIED – 2 file(s)]
+  file_03.txt
+    Old SHA-256 : 8ea31da4770964b43be06baec12ff975cab87f4c605e06ac2966d146b32860d7
+    New SHA-256 : 1318daaddafe1aba757d372dfb359fa52c8dafde7e6dd7612c8b9e153a6f1192
+  file_09.txt
+    Old SHA-256 : f3bf08994d9d6787372cba0dffa4574cb71f1fac80b8cad6ecaecfcfb6fe828d
+    New SHA-256 : 7a78463b2bf0d6b06447027456d06482fb4b9578260bc9c04033e6cd4b8a19f4
+
+[DELETED – 1 file(s)]
+  file_12.txt
+
+[ADDED – 2 file(s)]
+  subdir1/doc_04.txt
+  subdir2/config_02.txt
+======================================================================
+
+======================================================================
+Integrity Check Report
+Timestamp       : 2026-05-23T12:22:09.554489
+Baseline taken  : 2026-05-23T12:16:00.423803
+Folder          : ./integrity_test
+----------------------------------------------------------------------
+Result: 9 change(s) detected
+
+[MODIFIED – 3 file(s)]
+  file_01.txt
+    Old SHA-256 : 5bb9bafeea2a7d9c97847c9ed521692f4e9aeb8789cd79031adfc8ae9620647d
+    New SHA-256 : 9e28c11a1aaf51e26d0091cada524038f4f1c57cd444209e192e0d28363bdabd
+  file_03.txt
+    Old SHA-256 : 8ea31da4770964b43be06baec12ff975cab87f4c605e06ac2966d146b32860d7
+    New SHA-256 : 1318daaddafe1aba757d372dfb359fa52c8dafde7e6dd7612c8b9e153a6f1192
+  file_09.txt
+    Old SHA-256 : f3bf08994d9d6787372cba0dffa4574cb71f1fac80b8cad6ecaecfcfb6fe828d
+    New SHA-256 : 7a78463b2bf0d6b06447027456d06482fb4b9578260bc9c04033e6cd4b8a19f4
+
+[DELETED – 2 file(s)]
+  file_12.txt
+  file_15.txt
+
+[ADDED – 4 file(s)]
+  round2_new.txt
+  subdir1/doc_04.txt
+  subdir2/config_02.txt
+  subdir2/config_03.txt
+======================================================================
+
+======================================================================
+Integrity Check Report
+Timestamp       : 2026-05-23T12:22:59.821773
+Baseline taken  : 2026-05-23T12:22:32.124260
+Folder          : ./integrity_test
+----------------------------------------------------------------------
+Result: NO CHANGES DETECTED
+======================================================================

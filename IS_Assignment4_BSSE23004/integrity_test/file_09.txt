@@ -1,0 +1,2 @@
+This is sample file number 09. It contains some dummy text for integrity testing.
+MODIFIED CONTENT: data altered by attacker simulation

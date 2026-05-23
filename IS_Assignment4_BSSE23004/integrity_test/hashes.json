@@ -1,0 +1,141 @@
+{
+  "scanned_at": "2026-05-23T12:22:32.124260",
+  "folder": "./integrity_test",
+  "files": {
+    "file_03.txt": {
+      "sha256": "1318daaddafe1aba757d372dfb359fa52c8dafde7e6dd7612c8b9e153a6f1192",
+      "size": 164,
+      "mtime": 1779520800.2375958
+    },
+    "file_09.txt": {
+      "sha256": "7a78463b2bf0d6b06447027456d06482fb4b9578260bc9c04033e6cd4b8a19f4",
+      "size": 136,
+      "mtime": 1779520800.2375958
+    },
+    "file_01.txt": {
+      "sha256": "9e28c11a1aaf51e26d0091cada524038f4f1c57cd444209e192e0d28363bdabd",
+      "size": 106,
+      "mtime": 1779520894.2858503
+    },
+    "file_10.txt": {
+      "sha256": "373a8fe10202ec532e34ca95fd47eb35f8d95a111adf2207d906ce0127519d3f",
+      "size": 82,
+      "mtime": 1779520429.9975045
+    },
+    "file_06.txt": {
+      "sha256": "26aaad135de0f109c3190771d4adbf3912dc88da7177c685a7d557994d83388a",
+      "size": 82,
+      "mtime": 1779520429.9965045
+    },
+    "file_11.txt": {
+      "sha256": "a6621afad65a8c95b129183667415d4745638472cbe91e0e8204c84d19fb5301",
+      "size": 82,
+      "mtime": 1779520429.9975045
+    },
+    "file_14.txt": {
+      "sha256": "4b50707721cf5d7374a75c90ddefe28427d5b8ecd876618bd07881c4a4f29c55",
+      "size": 82,
+      "mtime": 1779520429.9975045
+    },
+    "file_07.txt": {
+      "sha256": "3ca1db18bb2d3e4df33f52260b4e8c7f4bd2c204a47bc011444967019280005e",
+      "size": 82,
+      "mtime": 1779520429.9965045
+    },
+    "round2_new.txt": {
+      "sha256": "31800274a5945b2ff0cb2a96e68c1edc8f90ba41a086dcf011924f16c44b3046",
+      "size": 34,
+      "mtime": 1779520918.2876153
+    },
+    "file_08.txt": {
+      "sha256": "bf742962e4c12b50948b628c344eecd929851d2761d07eb52bf13e59469268ce",
+      "size": 82,
+      "mtime": 1779520429.9965045
+    },
+    "file_05.txt": {
+      "sha256": "654f2abb31435011ef0beb0e3c2b7749bebbf6cc9912d00ed2114575c4601417",
+      "size": 82,
+      "mtime": 1779520429.9965045
+    },
+    "file_04.txt": {
+      "sha256": "cec209c367249cd566508439df3f147f08382fd5a93a95f488d233d3453ce07c",
+      "size": 82,
+      "mtime": 1779520429.9965045
+    },
+    "file_13.txt": {
+      "sha256": "5c5477b1b264e7b4f760779eb96615ca74ac44de45ae7f3b3d6c2ff40be3ffe3",
+      "size": 82,
+      "mtime": 1779520429.9975045
+    },
+    "file_02.txt": {
+      "sha256": "0b45a081e737f0d2e509aeb103e0fee01041eba8ad0b4c7fb74a30111b78be15",
+      "size": 82,
+      "mtime": 1779520429.9965045
+    },
+    "subdir1/doc_4.txt": {
+      "sha256": "c02533771c336072d3d0016902bbcdca9d91bf90edea6a1e360f467b799badd6",
+      "size": 57,
+      "mtime": 1779520459.3212106
+    },
+    "subdir1/doc_04.txt": {
+      "sha256": "99eca50b387faed3e33138929b9b06774d88234e3c5c733df323dc0d54e31bdd",
+      "size": 270,
+      "mtime": 1779520800.2375958
+    },
+    "subdir1/doc_1.txt": {
+      "sha256": "b09cd3a7c204b537397a8dc4a04f5b4e0f4912b55c9386cc58643ea3e0ecd8db",
+      "size": 57,
+      "mtime": 1779520459.3212106
+    },
+    "subdir1/doc_3.txt": {
+      "sha256": "8ce721980d48f527f4f665077fc24c376d19c6533d606ed32991f4dd2fe48178",
+      "size": 57,
+      "mtime": 1779520459.3212106
+    },
+    "subdir1/doc_5.txt": {
+      "sha256": "9b8ab87b68003907b2df30cf098617f8cac46d3e83d50438e9073324fa5cb316",
+      "size": 57,
+      "mtime": 1779520459.3222106
+    },
+    "subdir1/doc_2.txt": {
+      "sha256": "44a0abf8dcf28d8b0200bf4fd2c1ece4204b9094cb164520e7da476fa908031b",
+      "size": 57,
+      "mtime": 1779520459.3212106
+    },
+    "subdir2/config_3.txt": {
+      "sha256": "8c46bea524e670d8b216d6d122d85be0c7feec4c09e1e9aa60cd3aec37e4ca88",
+      "size": 54,
+      "mtime": 1779520478.0573654
+    },
+    "subdir2/config_4.txt": {
+      "sha256": "145598f35d7b6ad4a2283023e2ec6edb493f1ae7b678f32d83213f4742981bfc",
+      "size": 54,
+      "mtime": 1779520478.0573654
+    },
+    "subdir2/config_5.txt": {
+      "sha256": "72d08092cdf757a22c0cd115cb0b54fa5314105d938c7235a7e4cbf0a5441a37",
+      "size": 54,
+      "mtime": 1779520478.0573654
+    },
+    "subdir2/config_03.txt": {
+      "sha256": "7ed78e630eedb7a7e02a7683a9431590598f7c820025eba442ebb502dace8a67",
+      "size": 24,
+      "mtime": 1779520894.2868505
+    },
+    "subdir2/config_1.txt": {
+      "sha256": "ef158a22523869cd7ddb7ebc941fd14fc7f9a586f15ae40edd459cf232108ff3",
+      "size": 54,
+      "mtime": 1779520478.0573654
+    },
+    "subdir2/config_02.txt": {
+      "sha256": "801ac82180b3bf109dcf968a92395908dbcf7e8e54efbb3b6d204972dc61db85",
+      "size": 39,
+      "mtime": 1779520800.2375958
+    },
+    "subdir2/config_2.txt": {
+      "sha256": "9b02b063a83c19520e37b7b04a68479b52b47de5cc82c4665a10148ff00a6e0a",
+      "size": 54,
+      "mtime": 1779520478.0573654
+    }
+  }
+}

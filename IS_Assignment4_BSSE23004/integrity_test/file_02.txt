@@ -1,0 +1,1 @@
+This is sample file number 02. It contains some dummy text for integrity testing.
